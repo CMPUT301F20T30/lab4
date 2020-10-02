@@ -1,4 +1,4 @@
 package com.jensen.demo.lab4;
 
-public class Heptagon {
+public class Heptagon extends Shape {
 }
