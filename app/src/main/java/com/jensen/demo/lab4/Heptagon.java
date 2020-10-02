@@ -1,4 +1,4 @@
 package com.jensen.demo.lab4;
 
-public class Octogon {
+public class Heptagon {
 }
