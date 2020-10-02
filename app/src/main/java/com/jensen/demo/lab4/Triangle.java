@@ -1,8 +1,6 @@
 package com.jensen.demo.lab4;
 
-public abstract class Shape {
+public class Triangle extends Shape{
     private int x;
     private int y;
-
-    private String color = "Purple";
 }
